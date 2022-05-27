@@ -18,5 +18,4 @@
   <br/>
 
 ## Web Service_Flow diagram
-
-(https://github.com/KIMBEOMSU0724/CloudProgramming_Project/blob/main/Flow_Diagram.PNG?raw=true)
+![flow diagram](https://github.com/KIMBEOMSU0724/CloudProgramming_Project/blob/main/Flow_Diagram.PNG?raw=true)
