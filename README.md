@@ -1,12 +1,10 @@
 # CloudProgramming_Project
 
-### 2022 클라우드프로그래밍 강의 프로젝트
+#### 2022 클라우드프로그래밍 강의 프로젝트
 
 ---
 
-## Web Service_프로젝트 소개
-<br/>
-
+### Web Service_프로젝트 소개
 
 * ### 요리 & 미식 커뮤니티 (Cook & Eat)  
   
@@ -21,5 +19,5 @@
   
   
 
-## Web Service_Flow diagram
+### Web Service_Flow diagram
 
